@@ -1,4 +1,5 @@
-let x = 10;
-const express = require("express");
+let setImage = './image/flower.jpg';
+let xy=120;
+let express = require("express");
 
 //just to dummy variable and import to demonstrate git merge
